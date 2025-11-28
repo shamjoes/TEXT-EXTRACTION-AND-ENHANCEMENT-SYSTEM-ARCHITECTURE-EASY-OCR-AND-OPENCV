@@ -1,0 +1,158 @@
+2025-11-06 10:01:58,183 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 10:01:58,287 - WARNING - Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+2025-11-06 10:02:40,689 - INFO - Download complete
+2025-11-06 10:02:40,689 - WARNING - Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2025-11-06 10:02:44,004 - INFO - Download complete.
+2025-11-06 10:02:48,700 - INFO - Initialized EasyOCR with GPU
+2025-11-06 10:02:50,333 - INFO - Cleaned up uploads folder
+2025-11-06 10:02:50,333 - INFO -  * Restarting with stat
+2025-11-06 10:03:02,766 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 10:03:09,069 - INFO - Initialized EasyOCR with GPU
+2025-11-06 10:03:11,213 - INFO - Cleaned up uploads folder
+2025-11-06 10:03:11,214 - WARNING -  * Debugger is active!
+2025-11-06 10:03:11,317 - INFO -  * Debugger PIN: 124-550-442
+2025-11-06 10:06:00,904 - INFO - Processed 1 images
+2025-11-06 10:06:01,123 - INFO - Served file: exports\annotated_Screenshot_46.png
+2025-11-06 10:06:40,861 - INFO - Translated text to ta
+2025-11-06 10:07:57,325 - INFO - Generated speech audio: exports\speech_908b3c222f914601b94cd8565530b791.mp3
+2025-11-06 10:08:56,810 - INFO - Generated speech audio: exports\speech_275539b8c3c24dd0a0fe84d2fe6bad15.mp3
+2025-11-06 10:08:56,846 - INFO - Served file: exports\speech_908b3c222f914601b94cd8565530b791.mp3
+2025-11-06 10:09:25,065 - INFO - Served file: exports\speech_275539b8c3c24dd0a0fe84d2fe6bad15.mp3
+2025-11-06 10:12:05,991 - INFO - Cleaned up uploads folder
+2025-11-06 10:12:08,141 - INFO - Cleaned up uploads folder
+2025-11-06 10:12:47,383 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 10:12:52,102 - INFO - Initialized EasyOCR with GPU
+2025-11-06 10:12:53,585 - INFO - Cleaned up uploads folder
+2025-11-06 10:12:53,586 - INFO -  * Restarting with stat
+2025-11-06 10:13:07,258 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 10:13:12,351 - INFO - Initialized EasyOCR with GPU
+2025-11-06 10:13:13,938 - INFO - Cleaned up uploads folder
+2025-11-06 10:13:13,939 - WARNING -  * Debugger is active!
+2025-11-06 10:13:13,985 - INFO -  * Debugger PIN: 124-550-442
+2025-11-06 10:15:14,456 - INFO - Cleaned up uploads folder
+2025-11-06 10:15:15,677 - INFO - Cleaned up uploads folder
+2025-11-06 10:45:15,224 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 10:45:21,011 - INFO - Initialized EasyOCR with GPU
+2025-11-06 10:45:22,593 - INFO - Cleaned up uploads folder
+2025-11-06 10:45:22,595 - INFO -  * Restarting with stat
+2025-11-06 10:45:40,224 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 10:45:46,337 - INFO - Initialized EasyOCR with GPU
+2025-11-06 10:45:48,319 - INFO - Cleaned up uploads folder
+2025-11-06 10:45:48,320 - WARNING -  * Debugger is active!
+2025-11-06 10:45:48,359 - INFO -  * Debugger PIN: 124-550-442
+2025-11-06 11:34:41,239 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 11:34:43,924 - INFO - Initialized EasyOCR with GPU
+2025-11-06 11:34:44,779 - INFO - Cleaned up uploads folder
+2025-11-06 11:34:44,780 - INFO -  * Restarting with stat
+2025-11-06 11:34:52,306 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 11:34:54,930 - INFO - Initialized EasyOCR with GPU
+2025-11-06 11:34:55,835 - INFO - Cleaned up uploads folder
+2025-11-06 11:34:55,836 - WARNING -  * Debugger is active!
+2025-11-06 11:34:55,858 - INFO -  * Debugger PIN: 124-550-442
+2025-11-06 11:36:48,847 - INFO - Processed 1 images
+2025-11-06 11:36:48,895 - INFO - Served file: exports\annotated_WhatsApp_Image_2025-11-06_at_10.07.35_6698efb1.jpg
+2025-11-06 11:37:02,499 - INFO - Translated text to ta
+2025-11-06 11:37:12,997 - INFO - Generated speech audio: exports\speech_5790a5f76d654575bb017a646b22d378.mp3
+2025-11-06 11:37:13,037 - INFO - Served file: exports\speech_5790a5f76d654575bb017a646b22d378.mp3
+2025-11-06 11:37:27,892 - WARNING - Attempt 1/3 to delete exports\extracted_text.txt failed: [WinError 32] The process cannot access the file because it is being used by another process: 'exports\\extracted_text.txt'
+2025-11-06 11:37:28,393 - WARNING - Attempt 2/3 to delete exports\extracted_text.txt failed: [WinError 32] The process cannot access the file because it is being used by another process: 'exports\\extracted_text.txt'
+2025-11-06 11:37:28,894 - WARNING - Attempt 3/3 to delete exports\extracted_text.txt failed: [WinError 32] The process cannot access the file because it is being used by another process: 'exports\\extracted_text.txt'
+2025-11-06 11:37:29,395 - ERROR - Could not delete exports\extracted_text.txt after 3 attempts
+2025-11-06 11:37:29,395 - INFO - Exported text to TXT
+2025-11-06 11:38:02,763 - INFO - Translated text to en
+2025-11-06 11:38:13,420 - INFO - Generated speech audio: exports\speech_172ebec3d7524260a0ef2115c8a17bec.mp3
+2025-11-06 11:38:13,469 - INFO - Served file: exports\speech_172ebec3d7524260a0ef2115c8a17bec.mp3
+2025-11-06 11:39:16,050 - INFO - Translated text to ta
+2025-11-06 11:39:25,012 - INFO - Generated speech audio: exports\speech_bfd46c17dc3f44ba938997c672ab82cf.mp3
+2025-11-06 11:39:25,095 - INFO - Served file: exports\speech_bfd46c17dc3f44ba938997c672ab82cf.mp3
+2025-11-06 11:39:53,349 - INFO - Started live OCR
+2025-11-06 11:40:54,062 - INFO - Translated text to ta
+2025-11-06 11:41:01,572 - INFO - Translated text to es
+2025-11-06 11:53:02,584 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 11:53:07,464 - INFO - Initialized EasyOCR with GPU
+2025-11-06 11:53:09,072 - INFO - Cleaned up uploads folder
+2025-11-06 11:53:09,074 - INFO -  * Restarting with stat
+2025-11-06 11:53:19,982 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 11:53:24,553 - INFO - Initialized EasyOCR with GPU
+2025-11-06 11:53:26,146 - INFO - Cleaned up uploads folder
+2025-11-06 11:53:26,146 - WARNING -  * Debugger is active!
+2025-11-06 11:53:26,179 - INFO -  * Debugger PIN: 124-550-442
+2025-11-06 12:18:07,776 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 12:18:12,394 - INFO - Initialized EasyOCR with GPU
+2025-11-06 12:18:13,982 - INFO - Cleaned up uploads folder
+2025-11-06 12:18:13,990 - INFO -  * Restarting with stat
+2025-11-06 12:18:24,648 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 12:18:28,965 - INFO - Initialized EasyOCR with GPU
+2025-11-06 12:18:30,523 - INFO - Cleaned up uploads folder
+2025-11-06 12:18:30,524 - WARNING -  * Debugger is active!
+2025-11-06 12:18:30,556 - INFO -  * Debugger PIN: 124-550-442
+2025-11-06 12:41:20,081 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 12:41:26,080 - INFO - Initialized EasyOCR with GPU
+2025-11-06 12:41:28,136 - INFO - Cleaned up uploads folder
+2025-11-06 12:41:28,138 - INFO -  * Restarting with stat
+2025-11-06 12:41:43,826 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 12:41:49,234 - INFO - Initialized EasyOCR with GPU
+2025-11-06 12:41:51,072 - INFO - Cleaned up uploads folder
+2025-11-06 12:41:51,073 - WARNING -  * Debugger is active!
+2025-11-06 12:41:51,113 - INFO -  * Debugger PIN: 797-668-943
+2025-11-06 12:56:36,999 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 12:56:41,665 - INFO - Initialized EasyOCR with GPU
+2025-11-06 12:56:43,450 - INFO - Cleaned up uploads folder
+2025-11-06 12:56:43,450 - INFO -  * Restarting with stat
+2025-11-06 12:56:54,854 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 12:56:59,415 - INFO - Initialized EasyOCR with GPU
+2025-11-06 12:57:00,936 - INFO - Cleaned up uploads folder
+2025-11-06 12:57:00,937 - WARNING -  * Debugger is active!
+2025-11-06 12:57:00,966 - INFO -  * Debugger PIN: 797-668-943
+2025-11-06 13:15:16,626 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 13:15:22,941 - INFO - Initialized EasyOCR with GPU
+2025-11-06 13:15:24,735 - INFO - Cleaned up uploads folder
+2025-11-06 13:15:24,738 - INFO -  * Restarting with stat
+2025-11-06 13:15:39,962 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 13:15:45,852 - INFO - Initialized EasyOCR with GPU
+2025-11-06 13:15:47,670 - INFO - Cleaned up uploads folder
+2025-11-06 13:15:47,671 - WARNING -  * Debugger is active!
+2025-11-06 13:15:47,720 - INFO -  * Debugger PIN: 348-628-230
+2025-11-06 13:17:38,460 - INFO - Processed 1 images
+2025-11-06 13:17:38,532 - INFO - Served file: exports\annotated_Your_paragraph_text.jpg
+2025-11-06 13:18:30,675 - WARNING - Attempt 1/3 to delete exports\extracted_text.txt failed: [WinError 32] The process cannot access the file because it is being used by another process: 'exports\\extracted_text.txt'
+2025-11-06 13:18:31,176 - WARNING - Attempt 2/3 to delete exports\extracted_text.txt failed: [WinError 32] The process cannot access the file because it is being used by another process: 'exports\\extracted_text.txt'
+2025-11-06 13:18:31,678 - WARNING - Attempt 3/3 to delete exports\extracted_text.txt failed: [WinError 32] The process cannot access the file because it is being used by another process: 'exports\\extracted_text.txt'
+2025-11-06 13:18:32,179 - ERROR - Could not delete exports\extracted_text.txt after 3 attempts
+2025-11-06 13:18:32,179 - INFO - Exported text to TXT
+2025-11-06 13:21:25,305 - INFO - Processed 1 images
+2025-11-06 13:21:25,394 - INFO - Served file: exports\annotated_Your_paragraph_text_1.png
+2025-11-06 13:23:26,432 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 13:23:31,681 - INFO - Initialized EasyOCR with GPU
+2025-11-06 13:23:33,206 - INFO - Cleaned up uploads folder
+2025-11-06 13:23:33,206 - INFO -  * Restarting with stat
+2025-11-06 13:23:45,469 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 13:23:54,085 - INFO - Initialized EasyOCR with GPU
+2025-11-06 13:23:56,302 - INFO - Cleaned up uploads folder
+2025-11-06 13:23:56,303 - WARNING -  * Debugger is active!
+2025-11-06 13:23:56,340 - INFO -  * Debugger PIN: 348-628-230
+2025-11-06 15:42:27,632 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 15:42:33,280 - INFO - Initialized EasyOCR with GPU
+2025-11-06 15:42:35,103 - INFO - Cleaned up uploads folder
+2025-11-06 15:42:35,104 - INFO -  * Restarting with stat
+2025-11-06 15:42:48,429 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 15:42:53,590 - INFO - Initialized EasyOCR with GPU
+2025-11-06 15:42:55,121 - INFO - Cleaned up uploads folder
+2025-11-06 15:42:55,121 - WARNING -  * Debugger is active!
+2025-11-06 15:42:55,150 - INFO -  * Debugger PIN: 540-401-141
+2025-11-06 15:56:30,045 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 15:56:35,842 - INFO - Initialized EasyOCR with GPU
+2025-11-06 15:56:37,474 - INFO - Cleaned up uploads folder
+2025-11-06 15:56:37,475 - INFO -  * Restarting with stat
+2025-11-06 15:56:50,163 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-11-06 15:56:55,226 - INFO - Initialized EasyOCR with GPU
+2025-11-06 15:56:56,785 - INFO - Cleaned up uploads folder
+2025-11-06 15:56:56,786 - WARNING -  * Debugger is active!
+2025-11-06 15:56:56,809 - INFO -  * Debugger PIN: 125-095-202
+2025-11-06 15:58:10,414 - INFO - Processed 1 images
+2025-11-06 15:58:10,467 - INFO - Served file: exports\annotated_WhatsApp_Image_2025-11-06_at_10.07.35_5efecd9d.jpg
+2025-11-06 15:58:35,270 - INFO - Translated text to ta
+2025-11-06 15:58:53,964 - INFO - Generated speech audio: exports\speech_511c98475d93488ea0a73de45a8a5e2c.mp3
+2025-11-06 15:58:54,023 - INFO - Served file: exports\speech_511c98475d93488ea0a73de45a8a5e2c.mp3
+2025-11-06 15:59:41,559 - INFO - Started live OCR
+2025-11-06 16:00:32,915 - INFO - Translated text to de

@@ -1,0 +1,16 @@
+Flask==3.0.3
+Werkzeug==3.0.2
+easyocr==1.7.1
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+Pillow==10.3.0
+googletrans==4.0.0-rc1
+gTTS==2.5.1
+pyttsx3==2.90
+numpy==1.26.4
+opencv-python==4.9.0.80
+langdetect==1.0.9
+flask-socketio==5.3.6
+eventlet==0.35.2
+
